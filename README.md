@@ -1,4 +1,4 @@
-# module2-assignment1
+# Assignment1
 
 # Module 2: Basic Python Concepts - Assignment 1
 
